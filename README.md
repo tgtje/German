@@ -1,9 +1,6 @@
 # German
-German Language Pack for e107 v2.3.1
-This is Version 2.3.1 
-Language Pack -GERMAN- 
--Download the .zip 
--Ftp it to your e107 installation
--Open your Admin interface, go to language and activate the German language pack
--Switch your e107 to german or multi language, just as you need. 
--Have fun.
+German Language Pack for e107 v2.3.3
+This is Version 2.3.3 
+
+(based on v 2.4.x already and would be suitable on git version untill 2025-01-12)
+
