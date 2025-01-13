@@ -57,7 +57,7 @@ define("EPL_ADLAN_40", "Admin Nachricht");
 define("EPL_ADLAN_41", "Die Datei scheint nicht im richtigen .zip oder .tar archive Format zu sein.");
 define("EPL_ADLAN_42", "Ein Fehler ist aufgetreten, die datei kann nicht entzippt werden");
 define("EPL_ADLAN_43", "Ihr Plugin wurde hochgeladen und entzippt, bitte scrollen Sie nach unten um das Plugin in der Liste zu sehen.");
-define("EPL_ADLAN_44", "Auto Plugin Upload und Extrahierung ist abgeschaltet bis Ihr Pluginverzeichnis die richtigen Rechte hat. - bitte geben Sie dem ".e_Plugin." Verzeichnis 777 chmod-Rechte.");
+define("EPL_ADLAN_44", "Auto Plugin Upload und Extrahierung ist abgeschaltet bis Ihr Pluginverzeichnis die richtigen Rechte hat. - bitte geben Sie dem ".e_PLUGIN." Verzeichnis 777 chmod-Rechte.");
 define("EPL_ADLAN_45", "Ihr Menü wurde hochgeladen und entzippt, um es zu aktivieren gehen Sie bitte nach <a href='".e_ADMIN."menu.php'>Menüseite</a>.");
 define("EPL_ADLAN_46", "PCLZIP Fehler beim Extrahieren:");
 define("EPL_ADLAN_47", "PCLTAR Fehler beim Extrahieren:");
